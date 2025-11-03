@@ -60,7 +60,7 @@ If you prefer to fix the issue manually:
 
 ## 📊 Downloads
 
-![Downloads](https://img.shields.io/github/downloads/VCRUNTIME140dll/vcruntime140-dll-and-msvcp140-dll-missing-in-windows-10-11/Fix‑MissingDLLs.exe/total?label=exe%20downloads)
+![Downloads](https://img.shields.io/github/downloads/VCRUNTIME140dll/vcruntime140-dll-and-msvcp140-dll-missing-in-windows-10-11/total?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
